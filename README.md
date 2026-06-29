@@ -52,8 +52,8 @@ Portfolio/
 
 ## 💻 My Skills
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - C Programming
 - Git
 - GitHub
