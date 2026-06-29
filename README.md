@@ -31,8 +31,8 @@ I am passionate about web development and enjoy building responsive websites whi
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Flexbox
 - CSS Grid
 - Google Fonts
@@ -59,60 +59,7 @@ Portfolio/
 - GitHub
 - Responsive Web Design
 
----
-
-## 🚀 Projects
-
-- 🎬 Netflix Button Clone
-- 💼 Personal Portfolio Website
-- 📝 Responsive Registration Form
-
----
-
-## 🏆 Achievements
-
-- Participated in **CodeBenders Hackathon (IGDTUW × Dropp)**
-- Contributor at **GirlScript Summer of Code (GSSoC'26)**
-
----
-
-## 📬 Contact
-
-**📧 Email:**  
-**kaurmanpreet06951@gmail.com**
-
-**🐙 GitHub:**  
-https://github.com/Manpreet661
-
-**💼 LinkedIn:**  
-https://www.linkedin.com/in/manpreet-kaur-71a124377
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
----
-
-## 📈 Future Improvements
-
-- Add JavaScript animations
-- Add Dark/Light Mode Toggle
-- Add Resume Download Button
-- Add More Projects
-- Add Live Project Links
-
----
-
-## 📄 License
-
-This project is created for learning and personal portfolio purposes.
-
----
+----------
 
 # ⭐ Thank You for Visiting!
 
-If you like this project, feel free to ⭐ star the repository and connect with me on GitHub or LinkedIn.
